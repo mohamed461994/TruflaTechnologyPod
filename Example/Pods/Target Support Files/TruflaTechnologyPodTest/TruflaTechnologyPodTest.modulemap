@@ -1,0 +1,6 @@
+framework module TruflaTechnologyPodTest {
+  umbrella header "TruflaTechnologyPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

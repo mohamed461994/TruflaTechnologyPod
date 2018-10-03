@@ -1,0 +1,22 @@
+{
+  "name": "TruflaTechnologyPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of TruflaTechnologyPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mohamed461994/TruflaTechnologyPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mohamed461994": "mohamed461994@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mohamed461994/TruflaTechnologyPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TruflaTechnologyPodTest/Classes/**/*"
+}
