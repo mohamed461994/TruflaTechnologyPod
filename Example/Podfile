@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TruflaTechnologyPodTest_Example' do
+  pod 'TruflaTechnologyPodTest', :path => '../'
+
+  target 'TruflaTechnologyPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
