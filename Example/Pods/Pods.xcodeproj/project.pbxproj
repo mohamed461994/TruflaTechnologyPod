@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		002C0F71CBD52ECBFC1B84C07822192A /* TruflaTechnologyPodTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B1EA4E39B3ED98F082A118A993E50E36 /* TruflaTechnologyPodTest-dummy.m */; };
 		002F67699CA82F7C246BA370D1A03412 /* Pods-TruflaTechnologyPodTest_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CCED00DFCE442CE2F25C0A9368563F0A /* Pods-TruflaTechnologyPodTest_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		276370AB74012DC26CFBB7FC8083D6F1 /* Pods-TruflaTechnologyPodTest_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 52729B63814918E63B60005C10AAB481 /* Pods-TruflaTechnologyPodTest_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		684B5ABA2FF0542A8C9B45B9B9F943C5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		825BE3A7E6EAA8FA47B00C2C25FF4556 /* TruflaTechnologyPodTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FCF651B140232C9EFF6E8B9873428696 /* TruflaTechnologyPodTest-dummy.m */; };
+		7877DA7C83CDD479B0521FC4110E0D49 /* HelloWordTruflaForms.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DC1600D01A75B9C1A36BBC735BF4B1 /* HelloWordTruflaForms.swift */; };
 		9E4F35D14B1A7EBF22DBEA053D77C3E7 /* Pods-TruflaTechnologyPodTest_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 59ACD42942FFD4DA6484A62A1B5FDAFD /* Pods-TruflaTechnologyPodTest_Tests-dummy.m */; };
 		9EA21A7A2F70814028F69CC7EE797DE0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		D1332A6B82C5EEB49B86430B8915FD70 /* Pods-TruflaTechnologyPodTest_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 12E53C3CD94CF6372A218C4D564F2B4C /* Pods-TruflaTechnologyPodTest_Example-dummy.m */; };
 		D4635EF2E163ACD3CF01BEF4E25BFFD4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		D60AF9432C3FEC287DE432E1916C195B /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B66DCCE49D19B3D11397D2CE6BA93 /* ReplaceMe.swift */; };
-		E8F0EED4A3221FD3749E877A43B29074 /* TruflaTechnologyPodTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C2D53A6D98ED55C5C2244CFE79D6B243 /* TruflaTechnologyPodTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E8F0EED4A3221FD3749E877A43B29074 /* TruflaTechnologyPodTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AE4138048959A340E22886C5EDBE081C /* TruflaTechnologyPodTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,12 +38,10 @@
 
 /* Begin PBXFileReference section */
 		0893D3318E00A2C37D9293C240A4FA97 /* Pods-TruflaTechnologyPodTest_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TruflaTechnologyPodTest_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		112A63051D9DA2F57D5E8FC5039170D4 /* TruflaTechnologyPodTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = TruflaTechnologyPodTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		125828AA8FD64431CEB37DE5683E0E1D /* TruflaTechnologyPodTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TruflaTechnologyPodTest-prefix.pch"; sourceTree = "<group>"; };
 		12E53C3CD94CF6372A218C4D564F2B4C /* Pods-TruflaTechnologyPodTest_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TruflaTechnologyPodTest_Example-dummy.m"; sourceTree = "<group>"; };
 		139203306B086FDEFC004CB5E713C31B /* Pods-TruflaTechnologyPodTest_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TruflaTechnologyPodTest_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		1DB7351A1C5B266BCBE425FEF1227DD5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27260BD2521A4DF1C1E5088DEB6D1BB8 /* Pods-TruflaTechnologyPodTest_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TruflaTechnologyPodTest_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		28E4BA989AD859ADA49AAB6966C2F717 /* TruflaTechnologyPodTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = TruflaTechnologyPodTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3DC32B1A6CA8DE193F2C8CD08B82CE0B /* Pods-TruflaTechnologyPodTest_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TruflaTechnologyPodTest_Example.modulemap"; sourceTree = "<group>"; };
 		47E9CCF7229248EA6CEA8B86853E90F4 /* Pods-TruflaTechnologyPodTest_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TruflaTechnologyPodTest_Example-resources.sh"; sourceTree = "<group>"; };
 		4F1475A78657884735DF523EC24403B9 /* Pods-TruflaTechnologyPodTest_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TruflaTechnologyPodTest_Tests-frameworks.sh"; sourceTree = "<group>"; };
@@ -52,26 +50,28 @@
 		5774B3353D4E88EA81DAAB9975A98298 /* TruflaTechnologyPodTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TruflaTechnologyPodTest.framework; path = TruflaTechnologyPodTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		59ACD42942FFD4DA6484A62A1B5FDAFD /* Pods-TruflaTechnologyPodTest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TruflaTechnologyPodTest_Tests-dummy.m"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		613B61C80613B0A14CA18E0F6D020B6B /* TruflaTechnologyPodTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TruflaTechnologyPodTest.xcconfig; sourceTree = "<group>"; };
 		61CC1B59B7CD6DCA07B9441A20C0CBFF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6DD15BAB01D6E4E032F94A68E51D6157 /* Pods-TruflaTechnologyPodTest_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TruflaTechnologyPodTest_Example-frameworks.sh"; sourceTree = "<group>"; };
-		6E188A4C51BF7C52FFC3DE92EA2BE975 /* TruflaTechnologyPodTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TruflaTechnologyPodTest.modulemap; sourceTree = "<group>"; };
-		719D1E81055E11EF745C9A231423F9F4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		73164D8C38EF777A96143228AC37F0CA /* Pods_TruflaTechnologyPodTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TruflaTechnologyPodTest_Tests.framework; path = "Pods-TruflaTechnologyPodTest_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		784782ADF0AE6D5D176EA09C472502B7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		994B66DCCE49D19B3D11397D2CE6BA93 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = TruflaTechnologyPodTest/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		955859FFFEDF40F897E3841D21F2C2C0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9793D3576F89DB387AFB552E66FAB18C /* TruflaTechnologyPodTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TruflaTechnologyPodTest-prefix.pch"; sourceTree = "<group>"; };
 		A434F3F61E1035FB464596013B31CFB6 /* Pods_TruflaTechnologyPodTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TruflaTechnologyPodTest_Example.framework; path = "Pods-TruflaTechnologyPodTest_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A71B5768EC88074159252AACC9F48DD1 /* TruflaTechnologyPodTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TruflaTechnologyPodTest.modulemap; sourceTree = "<group>"; };
+		AE4138048959A340E22886C5EDBE081C /* TruflaTechnologyPodTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TruflaTechnologyPodTest-umbrella.h"; sourceTree = "<group>"; };
 		B085937943422748A3DA74A7BB996188 /* Pods-TruflaTechnologyPodTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TruflaTechnologyPodTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C2D53A6D98ED55C5C2244CFE79D6B243 /* TruflaTechnologyPodTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TruflaTechnologyPodTest-umbrella.h"; sourceTree = "<group>"; };
+		B1EA4E39B3ED98F082A118A993E50E36 /* TruflaTechnologyPodTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TruflaTechnologyPodTest-dummy.m"; sourceTree = "<group>"; };
+		BAFEE9CE5292DD518D40FBD94B402571 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		C3BE3718C5F5E2294C547086F8D07760 /* Pods-TruflaTechnologyPodTest_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TruflaTechnologyPodTest_Tests-resources.sh"; sourceTree = "<group>"; };
+		C6DC1600D01A75B9C1A36BBC735BF4B1 /* HelloWordTruflaForms.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HelloWordTruflaForms.swift; path = TruflaTechnologyPodTest/Classes/HelloWordTruflaForms.swift; sourceTree = "<group>"; };
 		CB9F4BCD2867F215044E7BB5FFF81624 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCED00DFCE442CE2F25C0A9368563F0A /* Pods-TruflaTechnologyPodTest_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TruflaTechnologyPodTest_Example-umbrella.h"; sourceTree = "<group>"; };
 		CD8DAE8D21270E01B9C553C79578CC3F /* Pods-TruflaTechnologyPodTest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TruflaTechnologyPodTest_Tests.modulemap"; sourceTree = "<group>"; };
-		D8D430D205A4650666A01E73FF5DF7F6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		DCB2B930F163252B2227B67F8DDD4035 /* Pods-TruflaTechnologyPodTest_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TruflaTechnologyPodTest_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E864FD30740AE0D7379ADB02A8D8DAE6 /* Pods-TruflaTechnologyPodTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TruflaTechnologyPodTest_Example.release.xcconfig"; sourceTree = "<group>"; };
+		F8BEF2A9986862266A01E734214CC465 /* TruflaTechnologyPodTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TruflaTechnologyPodTest.xcconfig; sourceTree = "<group>"; };
 		FAA0FCAB6160F85ABEBF8E7EA53859B2 /* Pods-TruflaTechnologyPodTest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TruflaTechnologyPodTest_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		FCF651B140232C9EFF6E8B9873428696 /* TruflaTechnologyPodTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TruflaTechnologyPodTest-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,9 +123,20 @@
 		40C88CD47EA9DAED5A004A9CAA101D68 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B779E75CB95A9B721B3179C0267C2211 /* TruflaTechnologyPodTest */,
+				549AA10430452F60FF6DF6C4F5B001F7 /* TruflaTechnologyPodTest */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		549AA10430452F60FF6DF6C4F5B001F7 /* TruflaTechnologyPodTest */ = {
+			isa = PBXGroup;
+			children = (
+				C6DC1600D01A75B9C1A36BBC735BF4B1 /* HelloWordTruflaForms.swift */,
+				E242939CEEC769DD9D01ED753CA75EBA /* Pod */,
+				650A9FE22934702943170A5F39A05AE8 /* Support Files */,
+			);
+			name = TruflaTechnologyPodTest;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		55BD0C033E1523B01140B30968E960EA /* Pods-TruflaTechnologyPodTest_Tests */ = {
@@ -152,6 +163,20 @@
 				5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		650A9FE22934702943170A5F39A05AE8 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				955859FFFEDF40F897E3841D21F2C2C0 /* Info.plist */,
+				A71B5768EC88074159252AACC9F48DD1 /* TruflaTechnologyPodTest.modulemap */,
+				F8BEF2A9986862266A01E734214CC465 /* TruflaTechnologyPodTest.xcconfig */,
+				B1EA4E39B3ED98F082A118A993E50E36 /* TruflaTechnologyPodTest-dummy.m */,
+				9793D3576F89DB387AFB552E66FAB18C /* TruflaTechnologyPodTest-prefix.pch */,
+				AE4138048959A340E22886C5EDBE081C /* TruflaTechnologyPodTest-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/TruflaTechnologyPodTest";
 			sourceTree = "<group>";
 		};
 		66153E29CE47A869B135490BFEED8AF8 /* Products */ = {
@@ -184,27 +209,6 @@
 			);
 			sourceTree = "<group>";
 		};
-		AAEEED567D95D85BC1C21CC35B9652C2 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				719D1E81055E11EF745C9A231423F9F4 /* LICENSE */,
-				D8D430D205A4650666A01E73FF5DF7F6 /* README.md */,
-				112A63051D9DA2F57D5E8FC5039170D4 /* TruflaTechnologyPodTest.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		B779E75CB95A9B721B3179C0267C2211 /* TruflaTechnologyPodTest */ = {
-			isa = PBXGroup;
-			children = (
-				994B66DCCE49D19B3D11397D2CE6BA93 /* ReplaceMe.swift */,
-				AAEEED567D95D85BC1C21CC35B9652C2 /* Pod */,
-				BE624BFEA26FCDD125AFA7541CA2D745 /* Support Files */,
-			);
-			name = TruflaTechnologyPodTest;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -213,18 +217,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		BE624BFEA26FCDD125AFA7541CA2D745 /* Support Files */ = {
+		E242939CEEC769DD9D01ED753CA75EBA /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				1DB7351A1C5B266BCBE425FEF1227DD5 /* Info.plist */,
-				6E188A4C51BF7C52FFC3DE92EA2BE975 /* TruflaTechnologyPodTest.modulemap */,
-				613B61C80613B0A14CA18E0F6D020B6B /* TruflaTechnologyPodTest.xcconfig */,
-				FCF651B140232C9EFF6E8B9873428696 /* TruflaTechnologyPodTest-dummy.m */,
-				125828AA8FD64431CEB37DE5683E0E1D /* TruflaTechnologyPodTest-prefix.pch */,
-				C2D53A6D98ED55C5C2244CFE79D6B243 /* TruflaTechnologyPodTest-umbrella.h */,
+				784782ADF0AE6D5D176EA09C472502B7 /* LICENSE */,
+				BAFEE9CE5292DD518D40FBD94B402571 /* README.md */,
+				28E4BA989AD859ADA49AAB6966C2F717 /* TruflaTechnologyPodTest.podspec */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/TruflaTechnologyPodTest";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -281,7 +281,7 @@
 			buildConfigurationList = 7D3E656460CB2582F977E163D2FCDD65 /* Build configuration list for PBXNativeTarget "TruflaTechnologyPodTest" */;
 			buildPhases = (
 				F19DCAB7533C9BB0EE486CA4BCFBAE75 /* Headers */,
-				43A0D2581A0DD8A94ADD2FC72CFC719F /* Sources */,
+				EA21BC92D0CF31AE8D124D98FDFF74C8 /* Sources */,
 				07A5982AD6ABE06EDD238C4729A7AF00 /* Frameworks */,
 				DE86D54FE028521B4AA9FA8A7CE04956 /* Resources */,
 			);
@@ -374,20 +374,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		43A0D2581A0DD8A94ADD2FC72CFC719F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D60AF9432C3FEC287DE432E1916C195B /* ReplaceMe.swift in Sources */,
-				825BE3A7E6EAA8FA47B00C2C25FF4556 /* TruflaTechnologyPodTest-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		CF4231D4BDADA632647A304C024FBDFC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				9E4F35D14B1A7EBF22DBEA053D77C3E7 /* Pods-TruflaTechnologyPodTest_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA21BC92D0CF31AE8D124D98FDFF74C8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7877DA7C83CDD479B0521FC4110E0D49 /* HelloWordTruflaForms.swift in Sources */,
+				002C0F71CBD52ECBFC1B84C07822192A /* TruflaTechnologyPodTest-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +409,40 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		095841EB36E047B6DB2B1FEC061199F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F8BEF2A9986862266A01E734214CC465 /* TruflaTechnologyPodTest.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TruflaTechnologyPodTest/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest.modulemap";
+				PRODUCT_MODULE_NAME = TruflaTechnologyPodTest;
+				PRODUCT_NAME = TruflaTechnologyPodTest;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		1E053D7C7A8297F00F5327EF028019F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E864FD30740AE0D7379ADB02A8D8DAE6 /* Pods-TruflaTechnologyPodTest_Example.release.xcconfig */;
@@ -444,6 +478,38 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		4BB8676C7DE1C07A605D96550C4AD8F7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F8BEF2A9986862266A01E734214CC465 /* TruflaTechnologyPodTest.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TruflaTechnologyPodTest/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest.modulemap";
+				PRODUCT_MODULE_NAME = TruflaTechnologyPodTest;
+				PRODUCT_NAME = TruflaTechnologyPodTest;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		56A05ADD3BABDA1B56D1F979845809B1 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -501,40 +567,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		7201B94318D6B4B3C1A4C08128C5BEAD /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 613B61C80613B0A14CA18E0F6D020B6B /* TruflaTechnologyPodTest.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TruflaTechnologyPodTest/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest.modulemap";
-				PRODUCT_MODULE_NAME = TruflaTechnologyPodTest;
-				PRODUCT_NAME = TruflaTechnologyPodTest;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
@@ -636,38 +668,6 @@
 			};
 			name = Debug;
 		};
-		BF12D1BFB5885186F089E0595494A3A0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 613B61C80613B0A14CA18E0F6D020B6B /* TruflaTechnologyPodTest.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TruflaTechnologyPodTest/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/TruflaTechnologyPodTest/TruflaTechnologyPodTest.modulemap";
-				PRODUCT_MODULE_NAME = TruflaTechnologyPodTest;
-				PRODUCT_NAME = TruflaTechnologyPodTest;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		CA8F718125368D5AE6678DE9EFA7C6A2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FAA0FCAB6160F85ABEBF8E7EA53859B2 /* Pods-TruflaTechnologyPodTest_Example.debug.xcconfig */;
@@ -760,8 +760,8 @@
 		7D3E656460CB2582F977E163D2FCDD65 /* Build configuration list for PBXNativeTarget "TruflaTechnologyPodTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BF12D1BFB5885186F089E0595494A3A0 /* Debug */,
-				7201B94318D6B4B3C1A4C08128C5BEAD /* Release */,
+				4BB8676C7DE1C07A605D96550C4AD8F7 /* Debug */,
+				095841EB36E047B6DB2B1FEC061199F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

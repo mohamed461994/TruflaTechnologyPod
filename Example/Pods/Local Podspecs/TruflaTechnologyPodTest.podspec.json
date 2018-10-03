@@ -1,9 +1,9 @@
 {
   "name": "TruflaTechnologyPodTest",
   "version": "0.1.0",
-  "summary": "A short description of TruflaTechnologyPodTest.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/mohamed461994/TruflaTechnologyPodTest",
+  "summary": "This a Test Demo for true forms.",
+  "description": "Trufla technology is a leading in insurance technology we are controlling the insurance market now.\nHave anice day man we are actually a dreamers.",
+  "homepage": "https://github.com/mohamed461994/TruflaTechnologyPod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "mohamed461994": "mohamed461994@gmail.com"
   },
   "source": {
-    "git": "https://github.com/mohamed461994/TruflaTechnologyPodTest.git",
+    "git": "https://github.com/mohamed461994/TruflaTechnologyPod.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "TruflaTechnologyPodTest/Classes/**/*"
+  "source_files": "TruflaTechnologyPodTest/Classes/**/*",
+  "swift_version": "4"
 }

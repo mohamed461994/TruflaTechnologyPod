@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00ADB187E39675E903B38153 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		00ADB187E39675E903B38153 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		203CDBDB756054CCCB73114E /* Pods-TruflaTechnologyPodTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TruflaTechnologyPodTest_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TruflaTechnologyPodTest_Example/Pods-TruflaTechnologyPodTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		275D3F40867FABE308940871 /* Pods-TruflaTechnologyPodTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TruflaTechnologyPodTest_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TruflaTechnologyPodTest_Tests/Pods-TruflaTechnologyPodTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		3044D3666E70AA68AD7D0D15 /* Pods-TruflaTechnologyPodTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TruflaTechnologyPodTest_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TruflaTechnologyPodTest_Tests/Pods-TruflaTechnologyPodTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -43,8 +43,8 @@
 		607FACE51AFB9204008FA782 /* TruflaTechnologyPodTest_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TruflaTechnologyPodTest_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		9368F4916FA1AD58D1428398 /* TruflaTechnologyPodTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TruflaTechnologyPodTest.podspec; path = ../TruflaTechnologyPodTest.podspec; sourceTree = "<group>"; };
-		A5FB452CCD3D99F65ED46C37 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		9368F4916FA1AD58D1428398 /* TruflaTechnologyPodTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TruflaTechnologyPodTest.podspec; path = ../TruflaTechnologyPodTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A5FB452CCD3D99F65ED46C37 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D21764044CAC924DDF8297D0 /* Pods-TruflaTechnologyPodTest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TruflaTechnologyPodTest_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TruflaTechnologyPodTest_Example/Pods-TruflaTechnologyPodTest_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		EED00A8B255238A22C88697E /* Pods_TruflaTechnologyPodTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TruflaTechnologyPodTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -212,6 +212,7 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = JM6375DKHS;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
@@ -266,15 +267,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-TruflaTechnologyPodTest_Example-checkManifestLockResult.txt",
 			);
@@ -288,15 +285,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-TruflaTechnologyPodTest_Example/Pods-TruflaTechnologyPodTest_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/TruflaTechnologyPodTest/TruflaTechnologyPodTest.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TruflaTechnologyPodTest.framework",
 			);
@@ -310,15 +303,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-TruflaTechnologyPodTest_Tests-checkManifestLockResult.txt",
 			);
@@ -481,6 +470,7 @@
 			baseConfigurationReference = D21764044CAC924DDF8297D0 /* Pods-TruflaTechnologyPodTest_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JM6375DKHS;
 				INFOPLIST_FILE = TruflaTechnologyPodTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -496,6 +486,7 @@
 			baseConfigurationReference = 203CDBDB756054CCCB73114E /* Pods-TruflaTechnologyPodTest_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JM6375DKHS;
 				INFOPLIST_FILE = TruflaTechnologyPodTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
